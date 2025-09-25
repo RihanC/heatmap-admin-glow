@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "user": "Alice",
+    "type": "Picture",
+    "status": "Pending",
+    "lat": 19.0760,
+    "lng": 72.8777
+  },
+  {
+    "id": 2,
+    "user": "Bob",
+    "type": "Video",
+    "status": "Resolved",
+    "lat": 19.0850,
+    "lng": 72.8750
+  },
+  {
+    "id": 3,
+    "user": "Charlie",
+    "type": "Audio",
+    "status": "Pending",
+    "lat": 19.0700,
+    "lng": 72.8900
+  },
+  {
+    "id": 4,
+    "user": "David",
+    "type": "Picture",
+    "status": "Resolved",
+    "lat": 19.0600,
+    "lng": 72.8800
+  },
+  {
+    "id": 5,
+    "user": "Eve",
+    "type": "Video",
+    "status": "Pending",
+    "lat": 19.0900,
+    "lng": 72.8600
+  }
+]
